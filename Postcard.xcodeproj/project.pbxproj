@@ -13,6 +13,8 @@
 		210BDE501B2B492D002CD59C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 210BDE4F1B2B492D002CD59C /* Images.xcassets */; };
 		210BDE531B2B492D002CD59C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 210BDE511B2B492D002CD59C /* LaunchScreen.xib */; };
 		210BDE5F1B2B492D002CD59C /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 210BDE5E1B2B492D002CD59C /* PostcardTests.swift */; };
+		210BDE6B1B2B505C002CD59C /* sous_logo_blue_circle-112b358e8da1a7291b2a5466d11437b0 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 210BDE6A1B2B505C002CD59C /* sous_logo_blue_circle-112b358e8da1a7291b2a5466d11437b0 (1).png */; };
+		210BDE6D1B2B5408002CD59C /* strawberries.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 210BDE6C1B2B5408002CD59C /* strawberries.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		210BDE581B2B492D002CD59C /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		210BDE5D1B2B492D002CD59C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		210BDE5E1B2B492D002CD59C /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		210BDE6A1B2B505C002CD59C /* sous_logo_blue_circle-112b358e8da1a7291b2a5466d11437b0 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sous_logo_blue_circle-112b358e8da1a7291b2a5466d11437b0 (1).png"; sourceTree = "<group>"; };
+		210BDE6C1B2B5408002CD59C /* strawberries.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = strawberries.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		210BDE461B2B492D002CD59C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				210BDE6C1B2B5408002CD59C /* strawberries.jpeg */,
+				210BDE6A1B2B505C002CD59C /* sous_logo_blue_circle-112b358e8da1a7291b2a5466d11437b0 (1).png */,
 				210BDE471B2B492D002CD59C /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +201,8 @@
 				210BDE4E1B2B492D002CD59C /* Main.storyboard in Resources */,
 				210BDE531B2B492D002CD59C /* LaunchScreen.xib in Resources */,
 				210BDE501B2B492D002CD59C /* Images.xcassets in Resources */,
+				210BDE6D1B2B5408002CD59C /* strawberries.jpeg in Resources */,
+				210BDE6B1B2B505C002CD59C /* sous_logo_blue_circle-112b358e8da1a7291b2a5466d11437b0 (1).png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
